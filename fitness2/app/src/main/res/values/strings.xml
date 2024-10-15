@@ -1,0 +1,25 @@
+
+    <resources>
+        <string name="login">Login</string>
+        <string name="logout">Logout</string>
+        <string name="sign_up">Sign Up</string>
+        <string name="get_started">Get Started</string>
+        <string name="Edit_Profile">Edit Profile</string>
+        <string name="Welcome">Welcome to Fitness Buddy!</string>
+        <string name="password">password</string>
+        <string name="email">Email</string>
+        <string name="name">Name</string>
+        <string name="reenter_password">Re-enter Password</string>
+        <string name="already_have_account">Already have an account? Sign in</string>
+        <string name="create_account">Create Account</string>
+        <string name="hello_selly">Hello Selly</string>
+        <string name="search_hint">Search</string>
+        <string name="view_workout_plans">View workout plans>></string>
+        <string name="view_diet_plans">View diet plans >></string>
+        <string name="calculate_bmi">Calculate your BMI>></string>
+        <string name="choose_supplements">Choose your supplements>></string>
+        </resources>
+
+
+
+
